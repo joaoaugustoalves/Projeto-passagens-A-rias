@@ -1,0 +1,13 @@
+C:\Users\REI DELAS\Desktop\Projeto-Passagens-Aerias\bin\Debug\netcoreapp3.1\Projeto-Passagens-Aerias.exe
+C:\Users\REI DELAS\Desktop\Projeto-Passagens-Aerias\bin\Debug\netcoreapp3.1\Projeto-Passagens-Aerias.deps.json
+C:\Users\REI DELAS\Desktop\Projeto-Passagens-Aerias\bin\Debug\netcoreapp3.1\Projeto-Passagens-Aerias.runtimeconfig.json
+C:\Users\REI DELAS\Desktop\Projeto-Passagens-Aerias\bin\Debug\netcoreapp3.1\Projeto-Passagens-Aerias.runtimeconfig.dev.json
+C:\Users\REI DELAS\Desktop\Projeto-Passagens-Aerias\bin\Debug\netcoreapp3.1\Projeto-Passagens-Aerias.dll
+C:\Users\REI DELAS\Desktop\Projeto-Passagens-Aerias\bin\Debug\netcoreapp3.1\Projeto-Passagens-Aerias.pdb
+C:\Users\REI DELAS\Desktop\Projeto-Passagens-Aerias\obj\Debug\netcoreapp3.1\Projeto-Passagens-Aerias.csprojAssemblyReference.cache
+C:\Users\REI DELAS\Desktop\Projeto-Passagens-Aerias\obj\Debug\netcoreapp3.1\Projeto-Passagens-Aerias.AssemblyInfoInputs.cache
+C:\Users\REI DELAS\Desktop\Projeto-Passagens-Aerias\obj\Debug\netcoreapp3.1\Projeto-Passagens-Aerias.AssemblyInfo.cs
+C:\Users\REI DELAS\Desktop\Projeto-Passagens-Aerias\obj\Debug\netcoreapp3.1\Projeto-Passagens-Aerias.csproj.CoreCompileInputs.cache
+C:\Users\REI DELAS\Desktop\Projeto-Passagens-Aerias\obj\Debug\netcoreapp3.1\Projeto-Passagens-Aerias.dll
+C:\Users\REI DELAS\Desktop\Projeto-Passagens-Aerias\obj\Debug\netcoreapp3.1\Projeto-Passagens-Aerias.pdb
+C:\Users\REI DELAS\Desktop\Projeto-Passagens-Aerias\obj\Debug\netcoreapp3.1\Projeto-Passagens-Aerias.genruntimeconfig.cache
